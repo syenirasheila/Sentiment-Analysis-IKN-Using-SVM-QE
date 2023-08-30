@@ -3,15 +3,15 @@
 This project aims to analyze the sentiment about IKN (Ibu Kota Negara), the New National Capital in Indonesia. Data is obtained through crawling Twitter data related to IKN discussion topics. Furthermore, the data is analyzed using the SVM classification method by combining it with the Query Expansion technique to produce better model performance.
 
 Files Description:
-*Dataset: a folder containing the dataset that will be used in the project.
-*Hasil: a folder containing results after cleaning, normalization, pre-processing, and stop word removal of the dataset.
-*Kamus: a folder containing a List of Opinion Words (positive/negative) in Bahasa Indonesia. Originated by Liu's Opinion Words list with modification/translation to Indonesia.
+* Dataset: a folder containing the dataset that will be used in the project.
+* Hasil: a folder containing results after cleaning, normalization, pre-processing, and stop word removal of the dataset.
+* Kamus: a folder containing a List of Opinion Words (positive/negative) in Bahasa Indonesia. Originated by Liu's Opinion Words list with modification/translation to Indonesia.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## Built With
-*Python Using Google Collab
+* Python Using Google Collab
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
