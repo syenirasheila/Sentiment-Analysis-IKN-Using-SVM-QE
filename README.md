@@ -12,7 +12,7 @@ Files Description:
 
 ## 🚀 Built With
 
-* Python Using Google Collab
+Python using Google Collab
 
 ## 👤 Author
 
